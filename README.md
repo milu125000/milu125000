@@ -3,15 +3,15 @@
 I'm Milagros from Argentina, and I'm in my 3rd year of Computer Science degree at UNLA. 
 
 ### Skills: 
-*AWS                                                                                   
-*Java                                                                                                                                
-*Python                                                                                                                 
-*C                                                                                                               
-*C++                                                                                                               
-*SQL                                                                                                               
-*Assembler                                                                                                               
+* AWS                                                                                   
+* Java                                                                                                                                
+* Python                                                                                                                 
+* C                                                                                                               
+* C++                                                                                                               
+* SQL                                                                                                               
+* Assembler                                                                                                               
 
-###Languages:                                                                                                                                                           
+## Languages:                                                                                                                                                           
 Basic Chinese, Spanish, English                                                                                                               
 
 
